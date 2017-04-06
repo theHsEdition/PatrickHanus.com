@@ -97,6 +97,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/deploy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/deploy.php",
+		"oF": 0
+		},
 	"\/doc\/css.md": {
 		"cS": 0,
 		"eF": 1,
@@ -401,6 +407,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/test.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/test.txt",
+		"oF": 0
+		},
 	"\/tile-wide.png": {
 		"ft": 32768,
 		"iS": 2677,
@@ -428,7 +440,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 511827253,
-	"displayValue": "PatrickHanus.com",
+	"displayValue": "PatrickHanus",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "\/apple-touch-icon.png",
 	"lastBuiltDate": 512020725
