@@ -5,3 +5,11 @@ This started off as me wanting to finish a project, so I created a site for my w
 
 ## Comments Welcome
 If you see anything that seems odd or run into a glitch, just let me know or submit an issue on Github.
+
+## Release Updates
+v17.04.15 
+-Moved the site to a Jekyll Site
+-Added Blog pages
+-Updated deployment methodology
+-Fixed minified css issues
+-Added SASS

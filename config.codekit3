@@ -7,361 +7,509 @@
 		"uuidString": "B6A4DBC3-E8AC-42A1-8629-42D602211E67"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/.editorconfig",
+		"oAP": "\/.editorconfig",
 		"oF": 0
 		},
 	"\/.gitattributes": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/.gitattributes",
+		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
 	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/.gitignore",
+		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/.htaccess",
+		"oAP": "\/.htaccess",
 		"oF": 0
 		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/404.html",
+		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/apple-touch-icon.png": {
+	"\/_layouts\/default.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/default.html",
+		"oF": 0
+		},
+	"\/_layouts\/page.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/page.html",
+		"oF": 0
+		},
+	"\/_layouts\/post.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/post.html",
+		"oF": 0
+		},
+	"\/_site\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/.htaccess",
+		"oF": 0
+		},
+	"\/_site\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/404.html",
+		"oF": 0
+		},
+	"\/_site\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 3684,
-		"l": 1,
+		"iS": 6097,
 		"oA": 0,
-		"oAP": "\/build\/apple-touch-icon.png",
+		"oAP": "\/_site\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
-	"\/browserconfig.xml": {
+	"\/_site\/browserconfig.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/browserconfig.xml",
+		"oAP": "\/_site\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
-		"oF": 0
-		},
-	"\/crossdomain.xml": {
+	"\/_site\/crossdomain.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/crossdomain.xml",
+		"oAP": "\/_site\/crossdomain.xml",
 		"oF": 0
 		},
-	"\/css\/font-awesome.min.css": {
+	"\/_site\/deploy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/deploy.php",
+		"oF": 0
+		},
+	"\/_site\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/favicon.ico",
+		"oF": 0
+		},
+	"\/_site\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/index.html",
+		"oF": 0
+		},
+	"\/_site\/library\/fonts\/font-awesome.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/font-awesome.min-min.css",
+		"oAP": "\/_site\/library\/fonts\/font-awesome.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/css\/main-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/normalize.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/css\/normalize-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/deploy.php": {
+	"\/_site\/library\/fonts\/fontawesome-webfont.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/deploy.php",
+		"oAP": "\/_site\/library\/fonts\/fontawesome-webfont.eot",
 		"oF": 0
 		},
-	"\/doc\/css.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/build\/doc\/css.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/doc\/extend.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/build\/doc\/extend.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/doc\/faq.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/build\/doc\/faq.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/doc\/html.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/build\/doc\/html.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/doc\/js.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/build\/doc\/js.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/doc\/misc.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/build\/doc\/misc.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/doc\/TOC.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/build\/doc\/TOC.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/doc\/usage.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/build\/doc\/usage.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/favicon.ico",
-		"oF": 0
-		},
-	"\/fonts\/fontawesome-webfont.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/fonts\/fontawesome-webfont.eot",
-		"oF": 0
-		},
-	"\/fonts\/fontawesome-webfont.svg": {
+	"\/_site\/library\/fonts\/fontawesome-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/fontawesome-webfont.svg",
+		"oAP": "\/_site\/library\/fonts\/fontawesome-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/fontawesome-webfont.ttf": {
+	"\/_site\/library\/fonts\/fontawesome-webfont.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/fontawesome-webfont.ttf",
+		"oAP": "\/_site\/library\/fonts\/fontawesome-webfont.ttf",
 		"oF": 0
 		},
-	"\/fonts\/fontawesome-webfont.woff": {
+	"\/_site\/library\/fonts\/fontawesome-webfont.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/fontawesome-webfont.woff",
+		"oAP": "\/_site\/library\/fonts\/fontawesome-webfont.woff",
 		"oF": 0
 		},
-	"\/fonts\/fontawesome-webfont.woff2": {
+	"\/_site\/library\/fonts\/fontawesome-webfont.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/fontawesome-webfont.woff2",
+		"oAP": "\/_site\/library\/fonts\/fontawesome-webfont.woff2",
 		"oF": 0
 		},
-	"\/fonts\/FontAwesome.otf": {
+	"\/_site\/library\/fonts\/FontAwesome.otf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/FontAwesome.otf",
+		"oAP": "\/_site\/library\/fonts\/FontAwesome.otf",
 		"oF": 0
 		},
-	"\/humans.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/humans.txt",
-		"oF": 0
-		},
-	"\/img\/.gitignore": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/img\/.gitignore",
-		"oF": 0
-		},
-	"\/img\/patrick-hanus-illustration.png": {
+	"\/_site\/library\/img\/patrick-hanus-illustration.png": {
 		"ft": 32768,
-		"iS": 98375,
-		"l": 1,
+		"iS": 250734,
 		"oA": 0,
-		"oAP": "\/build\/img\/patrick-hanus-illustration.png",
+		"oAP": "\/_site\/library\/img\/patrick-hanus-illustration.png",
 		"oF": 0,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
+		},
+	"\/_site\/library\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/library\/js\/min\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/library\/js\/plugins.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/library\/js\/min\/plugins-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/library\/js\/vendor\/jquery-1.12.0.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/library\/js\/vendor\/min\/jquery-1.12.0.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/library\/js\/vendor\/modernizr-2.8.3.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/library\/js\/vendor\/min\/modernizr-2.8.3.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/library\/scss\/style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/library\/css\/style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_site\/readme.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_site\/readme.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_site\/robots.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/robots.txt",
+		"oF": 0
+		},
+	"\/_site\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/tile-wide.png": {
+		"ft": 32768,
+		"iS": 2677,
+		"oA": 0,
+		"oAP": "\/_site\/tile-wide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/tile.png": {
+		"ft": 32768,
+		"iS": 6097,
+		"oA": 0,
+		"oAP": "\/_site\/tile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3684,
+		"oA": 0,
+		"oAP": "\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/crossdomain.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/crossdomain.xml",
+		"oF": 0
+		},
+	"\/deploy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/deploy.php",
+		"oF": 0
+		},
+	"\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicon.ico",
+		"oF": 0
 		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/index.html",
+		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/js\/main.js": {
-		"ft": 64,
-		"mi": 1,
+	"\/library\/fonts\/font-awesome.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/js\/min\/main-min.js",
+		"oAP": "\/library\/fonts\/font-awesome.min-min.css",
 		"oF": 0,
-		"sC": 1,
-		"tS": 0
+		"oS": 0
 		},
-	"\/js\/plugins.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/min\/plugins-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/vendor\/jquery-1.12.0.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/vendor\/min\/jquery-1.12.0.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/vendor\/modernizr-2.8.3.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/vendor\/min\/modernizr-2.8.3.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/LICENSE.txt": {
+	"\/library\/fonts\/fontawesome-webfont.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/LICENSE.txt",
+		"oAP": "\/library\/fonts\/fontawesome-webfont.eot",
 		"oF": 0
+		},
+	"\/library\/fonts\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/library\/fonts\/fontawesome-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/library\/fonts\/fontawesome-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/fonts\/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"\/library\/fonts\/fontawesome-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/fonts\/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"\/library\/fonts\/fontawesome-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/fonts\/fontawesome-webfont.woff2",
+		"oF": 0
+		},
+	"\/library\/fonts\/FontAwesome.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/fonts\/FontAwesome.otf",
+		"oF": 0
+		},
+	"\/library\/img\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/library\/img\/.gitignore",
+		"oF": 0
+		},
+	"\/library\/img\/patrick-hanus-illustration.png": {
+		"ft": 32768,
+		"iS": 98375,
+		"oA": 0,
+		"oAP": "\/library\/img\/patrick-hanus-illustration.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/library\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/js\/min\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/library\/js\/plugins.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/js\/min\/plugins-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/library\/js\/vendor\/jquery-1.12.0.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/js\/vendor\/min\/jquery-1.12.0.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/library\/js\/vendor\/modernizr-2.8.3.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/js\/vendor\/min\/modernizr-2.8.3.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/library\/scss\/_base.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/library\/css\/_base.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/scss\/_modules\/_buttons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/library\/scss\/css\/_buttons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/scss\/_modules\/_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/library\/scss\/css\/_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/scss\/_modules\/_typography.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/library\/scss\/css\/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/scss\/_reset\/_main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/library\/scss\/css\/_main.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/scss\/_reset\/_normalize.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/library\/scss\/css\/_normalize.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/library\/scss\/style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style.css",
+		"oF": 2,
+		"oS": 3,
+		"uL": 1
 		},
 	"\/readme.md": {
 		"cS": 0,
@@ -372,7 +520,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/build\/readme.html",
+		"oAP": "\/readme.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -384,53 +532,39 @@
 	"\/robots.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/robots.txt",
+		"oAP": "\/robots.txt",
 		"oF": 0
-		},
-	"\/style-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/style-min-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/style.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/style-min.css",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/style-min.css",
+		"oF": 1,
 		"oS": 0
-		},
-	"\/test.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/test.txt",
-		"oF": 0
 		},
 	"\/tile-wide.png": {
 		"ft": 32768,
 		"iS": 2677,
-		"l": 1,
 		"oA": 0,
-		"oAP": "\/build\/tile-wide.png",
+		"oAP": "\/tile-wide.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/tile.png": {
 		"ft": 32768,
 		"iS": 6097,
-		"l": 1,
 		"oA": 0,
-		"oAP": "\/build\/tile.png",
+		"oAP": "\/tile.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
 		"q": 100
 		}
 	},
@@ -698,7 +832,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 1,
+	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -1400,6 +1534,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2227,14 +2365,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -2297,7 +2427,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
@@ -2554,7 +2684,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/build"
+	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
 }
