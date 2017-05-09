@@ -1,0 +1,27 @@
+---
+
+layout: page
+title: Thoughts, Comments & Concerns
+subtitle: The Patrick Hanus Blog
+permalink: /blog/
+
+---
+
+<!-- Loop through first 3 posts and show thumbnail for each -->
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+<!-- Loop thought the rest of the posts and don't show thumbnails -->
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
