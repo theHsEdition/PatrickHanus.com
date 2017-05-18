@@ -39,6 +39,24 @@
 		"oAP": "\/404.html",
 		"oF": 0
 		},
+	"\/_config.yml": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_config.yml",
+		"oF": 0
+		},
+	"\/_includes\/footer.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/footer.html",
+		"oF": 0
+		},
+	"\/_includes\/header.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/header.html",
+		"oF": 0
+		},
 	"\/_layouts\/default.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -51,11 +69,119 @@
 		"oAP": "\/_layouts\/page.html",
 		"oF": 0
 		},
-	"\/_layouts\/post.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/post.html",
-		"oF": 0
+	"\/_posts\/2016-05-20-this-post-demonstrates-post-content-styles.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_posts\/2016-05-20-this-post-demonstrates-post-content-styles.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_posts\/2017-05-02-mailchimp-kicked-me-in-the-face-(metaphorically).md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_posts\/2017-05-02-mailchimp-kicked-me-in-the-face-(metaphorically).html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_sass\/_base.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_base.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/_modules\/_buttons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_sass\/css\/_buttons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/_modules\/_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_sass\/css\/_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/_modules\/_typography.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_sass\/css\/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/_reset\/_main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_sass\/css\/_main.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/_reset\/_normalize.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_sass\/css\/_normalize.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/_site\/.htaccess": {
 		"ft": 8192,
@@ -63,10 +189,22 @@
 		"oAP": "\/_site\/.htaccess",
 		"oF": 0
 		},
+	"\/_site\/2016\/05\/20\/this-post-demonstrates-post-content-styles.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/2016\/05\/20\/this-post-demonstrates-post-content-styles.html",
+		"oF": 0
+		},
 	"\/_site\/404.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/404.html",
+		"oF": 0
+		},
+	"\/_site\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/about.html",
 		"oF": 0
 		},
 	"\/_site\/apple-touch-icon.png": {
@@ -80,6 +218,12 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_site\/blog.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog.html",
+		"oF": 0
+		},
 	"\/_site\/browserconfig.xml": {
 		"ft": 8192,
 		"oA": 2,
@@ -92,11 +236,15 @@
 		"oAP": "\/_site\/crossdomain.xml",
 		"oF": 0
 		},
-	"\/_site\/deploy.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/deploy.php",
-		"oF": 0
+	"\/_site\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/css\/style-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/_site\/favicon.ico": {
 		"ft": 8192,
@@ -220,6 +368,18 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/_site\/life\/2017\/05\/02\/mailchimp-kicked-me-in-the-face-(metaphorically).html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/life\/2017\/05\/02\/mailchimp-kicked-me-in-the-face-(metaphorically).html",
+		"oF": 0
+		},
+	"\/_site\/projects.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/projects.html",
+		"oF": 0
+		},
 	"\/_site\/readme.md": {
 		"cS": 0,
 		"eF": 1,
@@ -244,16 +404,6 @@
 		"oAP": "\/_site\/robots.txt",
 		"oF": 0
 		},
-	"\/_site\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/_site\/tile-wide.png": {
 		"ft": 32768,
 		"iS": 2677,
@@ -276,6 +426,12 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
 	"\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 3684,
@@ -286,6 +442,12 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/blog.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/blog.html",
+		"oF": 0
 		},
 	"\/browserconfig.xml": {
 		"ft": 8192,
@@ -299,12 +461,6 @@
 		"oAP": "\/crossdomain.xml",
 		"oF": 0
 		},
-	"\/deploy.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/deploy.php",
-		"oF": 0
-		},
 	"\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
@@ -316,6 +472,19 @@
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/library\/css\/style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style.css",
+		"oF": 2,
+		"oS": 3,
+		"uL": 1
 		},
 	"\/library\/fonts\/font-awesome.min.css": {
 		"aP": 1,
@@ -420,96 +589,11 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/library\/scss\/_base.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/library\/css\/_base.css",
-		"oF": 1,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/library\/scss\/_modules\/_buttons.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/library\/scss\/css\/_buttons.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/library\/scss\/_modules\/_grid.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/library\/scss\/css\/_grid.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/library\/scss\/_modules\/_typography.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/library\/scss\/css\/_typography.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/library\/scss\/_reset\/_main.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/library\/scss\/css\/_main.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/library\/scss\/_reset\/_normalize.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/library\/scss\/css\/_normalize.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/library\/scss\/style.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/style.css",
-		"oF": 2,
-		"oS": 3,
-		"uL": 1
+	"\/projects.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/projects.html",
+		"oF": 0
 		},
 	"\/readme.md": {
 		"cS": 0,
@@ -534,16 +618,6 @@
 		"oA": 2,
 		"oAP": "\/robots.txt",
 		"oF": 0
-		},
-	"\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/style-min.css",
-		"oF": 1,
-		"oS": 0
 		},
 	"\/tile-wide.png": {
 		"ft": 32768,

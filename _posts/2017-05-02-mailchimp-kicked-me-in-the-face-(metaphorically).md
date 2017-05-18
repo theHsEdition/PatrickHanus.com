@@ -6,8 +6,6 @@ categories: life
 
 ---
 
-![My helpful screenshot]({{ site.url }}/library/img/screenshot.jpg)
-
 How a name-game-campaign changed the way I think about marketing.
 
 ## MailChimp Champ
@@ -23,7 +21,7 @@ It is absolutely fascinating. The amount of detail, work and thought that was pu
 
 Initially, I felt absolutely stunned by the amount of work it must have taken. The color palettes, the images, the music, the individual social media accounts. It was a perfectly executed campaign that spoke — no yelled — right to me. It said:
 
-```*|FNAME|*! Wake up! Get out there and make awesome things. Entertain people.```
+> |FNAME|! Wake up! Get out there and make awesome things. Entertain people.
 
 It did more than speak to me.
 

@@ -10,10 +10,10 @@ logo: "/assets/logo.png"
 username: Patrick Hanus
 user_title: Patrick Hanus | Creative Director
 email: patrick@skymse.com
-twitter_username: @thehsedition
-github_username:  @thehsedition
-gplus_username:  @thehsedition
-disqus_username: @thehsedition
+twitter_username: "@thehsedition"
+github_username:  "@thehsedition"
+gplus_username:  "@thehsedition"
+disqus_username: "@thehsedition"
 
 # html minify
 compress_html:
@@ -23,8 +23,8 @@ compress_html:
   profile: false
 
 # sass/css minify
-sass:
-    style: compressed
+#sass:
+#    style: compressed
 
 # Links to include in menu navigation
 links:
