@@ -1,0 +1,68 @@
+
+{% include header.html %}
+
+<header>
+    <h1>Patrick Hanus</h1>
+    <p>{{ subtitle }}</p>
+    
+    <nav id="navigation" role="navigation">
+        <ul>
+          {% for link in site.links %}
+            <li>
+              <a class="nav-button" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+    </nav>
+</header>
+
+<content class="clearfix">
+
+    <section class="profile-pic">
+        <img src="{{ site.url }}/library/img/patrick-hanus-illustration.png" alt="Patrick Hanus is Attractive">
+    </section>
+
+    <section class="bio">
+        <h2>Hey There,</h2>
+        <p>I’m Patrick Hanus. Intros are always kind of rough so I’m going to try and sound as natural as possible. I built this website because my wife wanted me to get a job and stop “lying around."</p>
+        <p>I love good design, I like learning new programs and trying to figure out what I’m doing wrong. <a class="underline" href="http://skymousestudios.com">I started a company</a> with my best friend, because I want to help people kill their old websites and build better ones! I want to make enough money to write a television show that makes JJ Abrams jealous. (In a non-threatening way.)</p>
+        <p>Get in touch, shoot the breeze or send me spam at:<a class="underline" href="mailto:hello@patrickhanus.com">hello@patrickhanus.com</a></p>
+    </section>
+
+    <section>
+        <h2>Places I’ve been in the past year:</h2>
+        <p>Cold Cooperstown, NY</p>
+        <p>Inspiring Indianapolis, IN</p>
+        <p>Proud Pittsburgh, PA</p>
+        <p>Boisterous Boston, MA</p>
+    </section>
+
+    <section>
+        <h2>Stuff my grandma highly recommends:</h2>
+        <p>Genuine Homemade Blueberry Jam</p>
+        <p>J.A.G airing weekdays on the Inspire network</p>
+        <p>L.L.Bean anniversary edition plush winter snow parka (the sky-blue one)</p>
+        <p>"Smoking is bad for you" - An exhilarating picture book by me</p>
+    </section>
+
+    <section id="Social Media" itemtype="http://schema.org/Person">
+        <h2>Other things around the web:</h2>
+        <meta itemprop="url" content="http://patrickhanus.com">
+        
+        <p><i class="fa fa-vimeo" aria-hidden="true"></i>Watch videos and animations I've made on <a class="underline" href="https://bit.ly/ph-vimeo" rel="me" itemprop="sameAs">Vimeo.</a></p>
+        
+        <p><i class="fa fa-twitter" aria-hidden="true"></i>Read cool articles, funny thoughts and new projects on <a class="underline" href="https://bit.ly/ph-twitter" rel="me" itemprop="sameAs">Twitter</a></p>
+        
+        <p><i class="fa fa-github" aria-hidden="true"></i>Take a look at my code projects on <a class="underline" href="https://bit.ly/ph-github">Github</a></p>
+        
+        <p><i class="fa fa-instagram" aria-hidden="true"></i>See pictures of real life and doodles for <a class="underline" href="https://bit.ly/ph-insta" rel="me" itemprop="sameAs">Instagram</a></p>
+        
+        <p><i class="fa fa-spotify" aria-hidden="true"></i>Listen to the latest playlist on <a class="underline" href="https://bit.ly/ph-spotify">Spotify</a></p>
+        
+        <p><i class="fa fa-linkedin" aria-hidden="true"></i>Send me an awkward connection request on <a class="underline" href="https://bit.ly/ph-LinkedIn" rel="me" itemprop="sameAs">LinkedIn</a></p>
+       
+        <p><i class="fa fa-dribbble" aria-hidden="true"></i>Please invite me to upload work at <a class="underline" href="https://bit.ly/ph-dribbble" rel="me" itemprop="sameAs">Dribbble</a></p>
+
+    </section>
+
+{% include footer.html %}

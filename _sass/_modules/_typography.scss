@@ -1,40 +1,75 @@
+ // Colors
+
+$black:		#4A4A4A;
+$gray:		#c6c6c6;
+$green:		#a0d813;
+$lgreen:	#D7F4DC;
+$blue:		#75caca;
+
 h1 {
 	font-family: 'Passion One';
 	font-size: 100px;
 	font-weight: 400;
+	margin-top: 20px;
 	margin-bottom: 5px;
 	line-height: 80px;
+	color: $black;
 	text-shadow: 4px 3px 0 white, 9px 8px 0 rgba(0,0,0,0.15);
-
 }
 
-.underline {
-	display: inline-block;
-	color: #c6c6c6;
-	text-decoration: none;
-	border-bottom: 1px solid #c6c6c6;
-	transition: 0.2s;
-
-	&:hover {
-		color: #75caca;
-		transition: 0.5s;
-		border-bottom: 1px solid #75caca;
-	}
+h2 {
+	color: $black;
+	font-family: 'Passion One';
+	font-size: 30px;
+	font-weight: 100;
+	margin: 0px;
+	line-height: 40px;
 }
 
 p {
 	margin-top: 0px;
 }
 
-nav ul li {
-	display: inline-block;
+a {
+	color: lighten( black, 20%);
+
+	&:hover {
+		color: lighten( black, 40%);
+	}
 }
 
-nav a.nav-button {
-	padding: 10px;
-	border: 1px solid #B4E33D;
-	border-radius: 5px;
-	color: gray;
-	background: #D7F4DC;
-	margin: 20px 0;
+.fa {
+	color: $gray;
+	padding-right: 5px;
+}
+
+.underline {
+	display: inline-block;
+	color: $gray;
+	text-decoration: none;
+	border-bottom: 1px solid $gray;
+	transition: 0.2s;
+
+	&:hover {
+		color: $blue;
+		transition: 0.5s;
+		border-bottom: 1px solid $blue;
+	}
+}
+
+.nav-button {
+	padding: 1px 5px;
+	border-radius: 3px;
+	color: $gray;
+	border: 1px solid $gray;
+	background: white;
+	margin: 0 10px;
+	text-decoration: none;
+	transition: 0.5s;
+
+	&:hover {
+		color: $green;
+		border: 1px solid $green;
+		transition: 0.5s;
+	}
 }
