@@ -1,8 +1,8 @@
 # Site settings
 title: Patrick Hanus - Developer & Designer
 description: "A blog about lorem ipsum ..."
-baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+baseurl: ""
+url: "https://patrickhanus.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -30,23 +30,23 @@ compress_html:
 links:
   - title: Home
     url: /
+  - title: Resume
+    url: /resume
+  - title: Lists
+    url: /lists
   - title: Blog
     url: /blog
   - title: Projects
     url: /projects
-  - title: Tags
-    url: /Tags
   - title: About
     url: /about
 
 # projects in header index
 projects:
   - name: Skymouse Studios
-    url: https://github.com/victorvoid/asciilang
+    url: /skymouse
   - name: RESOURCE Commercial Real Estate
-    url: https://github.com/victorvoid/vim-frontend
-  - name: 
-    url: https://github.com/victorvoid/generator-capybara 
+    url: /resource
 
 # Links to Social Media
 social: 

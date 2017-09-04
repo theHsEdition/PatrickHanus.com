@@ -2,7 +2,16 @@
 
 layout: page
 title: Projects
-subtitle: A Look at Stuff I've Done and Actually Finished
+subtitle: A Look at Stuff I've Started and Actually Finished (Coming Soon)
 
 ---
 
+{% for project in site.projects %}
+	<section class="blog-card">
+	    <a href="{{ project.url }}">
+	    	<h2 itemprop="name">
+	    		{{ project.name }}
+	    	</h2>
+	    </a>
+	</section>     
+{% endfor %}

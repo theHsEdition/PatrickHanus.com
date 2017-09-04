@@ -2,20 +2,18 @@
 
 layout: page
 title: Thoughts, Comments & Concerns
-subtitle: The Patrick Hanus Blog
+subtitle: Because the World Needs Yet Another Blog
 
 ---
 
-
 <!-- Loop through first 3 posts and show thumbnail for each -->
-<section>
-  <ul>
+
+ 
     {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-        {{ post.date }}
-        {{ post.excerpt }}
-      </li>
+		<section class="blog-card">
+		    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+		    <i>{{ post.date  | date: "%m/%d/%Y" }}</i>
+		    {{ post.excerpt }}
+		</section>     
     {% endfor %}
-  </ul>
-</section>
+  
