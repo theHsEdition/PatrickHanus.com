@@ -4,6 +4,7 @@ layout: page
 title: About
 subtitle: A Somewhat Intimate Look at My Life.
 img: patrick-hanus-about-header.jpg
+permalink: /about.html
 
 ---
 	

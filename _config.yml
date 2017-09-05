@@ -26,27 +26,31 @@ compress_html:
 #sass:
 #    style: compressed
 
+exclude: [README.md, CHANGELOG.md]
+include: ["_pages"]
+permalink: /:title/
+
 # Links to include in menu navigation
 links:
   - title: Home
     url: /
   - title: Resume
-    url: /resume
+    url: /resume/
   - title: Lists
-    url: /lists
+    url: /lists/
   - title: Blog
-    url: /blog
+    url: /blog/
   - title: Projects
-    url: /projects
+    url: /projects/
   - title: About
-    url: /about
+    url: /about/
 
 # projects in header index
 projects:
   - name: Skymouse Studios
-    url: /skymouse
+    url: /skymouse/
   - name: RESOURCE Commercial Real Estate
-    url: /resource
+    url: /resource/
 
 # Links to Social Media
 social: 
@@ -74,4 +78,3 @@ descriptions:
 
   - cat: Code
     desc: "Developing a better me"
-

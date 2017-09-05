@@ -3,6 +3,7 @@
 layout: page
 title: Lists
 subtitle: An Ever Growing List of Lists of (Hopefully) Helpful Things
+permalink: /lists.html
 
 ---
 

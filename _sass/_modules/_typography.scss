@@ -2,9 +2,11 @@
 
 $black:		#4A4A4A;
 $gray:		#c6c6c6;
+$lgray:		#f1f1f1;
 $green:		#a0d813;
 $lgreen:	#D7F4DC;
 $blue:		#75caca;
+$yellow:	#c8ff29;
 
 h1 {
 	font-family: 'Passion One';
@@ -25,6 +27,14 @@ h2 {
 	margin: 0px;
 	margin-bottom: 5px;
 	line-height: 40px;
+	padding-top: 20px;
+}
+
+h3 {
+	font-weight: 600;
+	padding-top: 20px;
+	padding-bottom: 8px;
+	border-bottom: 3px solid $lgray;
 }
 
 p {
@@ -47,13 +57,13 @@ a {
 em {
 	font-weight: 800;
     font-style: normal;
-    background-color: #c8ff29;
-    border: 1px solid #cfcfcf;
+    background-color: $yellow;
+    border: 1px solid $lgray;
     border-radius: 4px;
 }
 
 pre {
-	background-color: $gray;
+	background-color: $lgray;
 	padding: 10px;
 	border-radius: 4px;
 }

@@ -22,13 +22,19 @@ nav ul {
 .page-header {
 	position: relative;
 	margin-top: 0px;
-	height: 100px;
+	height: 15px;
 	overflow: hidden;
+	background-color: $yellow;
+	transition: 0.5s;
+	text-align: center;
 
-	img {
-		position: absolute;
-		top: 0px;
-		margin-top: 0;
+	h2 {
+		margin-top: 40px;
+	}
+
+	&:hover {
+		height: 120px;
+		transition: 0.5s;
 	}
 }
 
