@@ -3,8 +3,13 @@
 layout: page
 title: About
 subtitle: A Somewhat Intimate Look at My Life.
-img: patrick-hanus-about-header.jpg
 permalink: /about.html
+
+hidden-message: What if Tesla started making affordable electric toothbrushes?
+
+seo:
+excerpt:
+img: patrick-hanus-about-header.jpg
 
 ---
 	
@@ -22,7 +27,7 @@ We were then uprooted and moved to Maryland because God told my parents to do it
 
 We moved to Upstate NY and finished up Middle school and high school where I learned Photoshop and Adobe Premiere, photoshopping my dad’s head on a baby’s body followed by the sequel of Justin Bieber’s head on a baby’s body. I thought that was really funny.
 
-I then when to college in Steubenville, Ohio where I was introduced to the wonderful world of After Effects, Avid Media Composer and shooting videos on real camera equipment and not a Kodak point-and-shoot. I made some of my proudest work with two short films that still make me laugh but still confuse my mom. It was also here where I realized I loved working with people and getting things done with a team. Up until this point I had an odd dislike for writing, but after writing my first script I realized I had stumbled upon true storytelling. I now have 6 different tv shows on the back-burner along with a couple movies. (My back-burner is pretty over-crowded.
+I attended college in Steubenville, Ohio where I was introduced to the wonderful world of After Effects, Avid Media Composer and shooting videos on real camera equipment and not a Kodak point-and-shoot. I made some of my proudest work with two short films that still make me laugh but still confuse my mom. It was also here where I realized I loved working with people and getting things done with a team. Up until this point I had an odd dislike for writing, but after writing my first script I realized I had stumbled upon true storytelling. I now have 6 different tv shows on the back-burner along with a couple movies. (My back-burner is pretty over-crowded.
 
 After graduating college I moved out to Indianapolis, IN mainly to make my mom love me more, but also because I didn’t realize how lame Indiana was at the time. It’s in the middle of nowhere—if you weren’t aware. I eventually got bored and I started a company with my college friend that built website for people and helped them look and sound their best on the web.
 

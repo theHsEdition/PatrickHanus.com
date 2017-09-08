@@ -2,6 +2,13 @@
 
 layout: page
 title: "RESOURCE Commercial Real Estate"
+permalink: /resource.html
+
+hidden-message: Don't Give Up. Life Gets Better.
+
+seo-title: Behind the Scenes at RESOURCE
+excerpt: How I learned to build websites from scratch (mostly) in one year without spending a dime.
+seo-image:
 
 ---
 

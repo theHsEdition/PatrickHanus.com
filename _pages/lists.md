@@ -5,6 +5,12 @@ title: Lists
 subtitle: An Ever Growing List of Lists of (Hopefully) Helpful Things
 permalink: /lists.html
 
+hidden-message: Don't Give Up. Life Gets Better.
+
+seo:
+excerpt:
+img:
+
 ---
 
 ## Apps I'm Using
@@ -31,20 +37,18 @@ permalink: /lists.html
 
 ## Movies I think you might like
 
+- King Arther
 - Dunkirk
 - Arrival
-- 
-
 - Inception
 - Ocean's 11
 - Shutter Island
 - Pulp Fiction
 - Momento
-- 
 
 ---
 
-## Bands That You May Enjoy
+## Bands That Make Me Dance
 
 - Grouplove
 - Foster the People
@@ -60,5 +64,6 @@ permalink: /lists.html
 
 - The Secret of Staying In Love
 - How to Win Friends and Influence People
-- What Do You Really Want
-
+- What Do You Really Want?
+- Don't Make Me Think
+- The Princess Bride

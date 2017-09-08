@@ -5,16 +5,19 @@ title: Thoughts, Comments & Concerns
 subtitle: Because the World Needs Yet Another Blog
 permalink: /blog.html
 
+hidden-message: My site doesn't have cookies. Sorry.
+
+seo:
+excerpt:
+img:
+
 ---
-
-<!-- Loop through first 3 posts and show thumbnail for each -->
-
  
-    {% for post in site.posts %}
-		<section class="blog-card">
-		    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-		    <i>{{ post.date  | date: "%m/%d/%Y" }}</i>
-		    {{ post.excerpt }}
-		</section>     
-    {% endfor %}
+{% for post in site.posts %}
+	<section class="blog-card">
+	    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+	    <i>{{ post.date  | date: "%m/%d/%Y" }}</i>
+	    {{ post.excerpt }}
+	</section>     
+{% endfor %}
   

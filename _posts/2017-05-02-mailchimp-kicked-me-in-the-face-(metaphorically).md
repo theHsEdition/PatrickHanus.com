@@ -1,9 +1,10 @@
 ---
 
-title: MailChimp Kicked Me in The Face (Metaphorically)
 layout: page
+title: MailChimp Kicked Me in The Face (Metaphorically)
 categories: life
 img: /library/img/twitter.png
+permalink: /posts/mailchimp-kicked-me-in-the-face
 
 ---
 
