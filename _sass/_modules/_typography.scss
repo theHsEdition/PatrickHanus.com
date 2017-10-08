@@ -9,13 +9,13 @@ $blue:		#75caca;
 $yellow:	#c8ff29;
 
 h1 {
+	color: $black;
 	font-family: 'Passion One';
 	font-size: 5em;
 	font-weight: 400;
 	margin-top: 20px;
 	margin-bottom: 5px;
 	line-height: 1em;
-	color: $black;
 	text-shadow: 4px 3px 0 white, 9px 8px 0 rgba(0,0,0,0.15);
 }
 
@@ -66,6 +66,11 @@ pre {
 	background-color: $lgray;
 	padding: 10px;
 	border-radius: 4px;
+	white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;
 }
 
 .underline {

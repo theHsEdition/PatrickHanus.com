@@ -8,6 +8,16 @@ If you see anything that seems odd or run into a glitch, just let me know or sub
 
 ## Release Updates
 
+### Update v0.0.1
+
+*Note* Changing my update codes to something a bit more conventional, sorry for any confusion.
+
+- Added image capability to blogs and projects
+- Added a blog post, and deleted another one
+- added more to the Skymouse Story
+- Tweaked some styles for sections and images
+- Changing the way I version updates 
+
 ### v17.09.07
 
 - Figured out adding a project folder to the pre-build folder
@@ -25,7 +35,7 @@ If you see anything that seems odd or run into a glitch, just let me know or sub
 - New Page Projects
 - New Page Lists
 - New hover comment in the header
-- New subfolder for _pagesz
+- New subfolder for pages
 
 ### v17.08.29
 

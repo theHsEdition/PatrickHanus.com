@@ -4,13 +4,17 @@ layout: page
 title: Resume
 subtitle: Patrick J. Hanus Jr. — Designer & Developer
 permalink: /resume.html
-
+img: resume-profile-picture.jpg
 hidden-message: Patrick is SO Talented. - My Mom
 
 ---
 
+<section class="img">
+	<img src="{{ site.url }}/library/img/{{ page.img }}" alt="">
+</section>
+
 ## 10-second Profile
-I was born in NY, but I've lived in 6 different states and counting. I spend my free time designing, developing and creating at my web design studio in Indianapolis. If I need to stop staring at the computer, I love playing indoor soccer, drawing caricatures, and drinking great coffee or a cold Guinness with friends.
+I was born in NY, but I've lived in 6 different states and counting. I spend my free time designing, developing and creating at my web design studio in Indianapolis. If I need to stop staring at the computer, I love playing indoor soccer, drawing charicatures, and drinking great coffee or a cold Guinness with friends.
 
 - Figuring out cool Zapier automations to make life easier. 
 - Running 2 miles every day. 
@@ -33,11 +37,9 @@ Co-founded Skymouse Studios with John Welch to help build brands people love. Ra
 ### Marketing Engineer | RESOURCE, LLC
 I work closely with the marketing team and company leadership to develop the RESOURCE brand, specifically related to the company website. I also wrangle social media presence, web projects, and video production.
 
-- Homepage Redesign
-- Website Redesign
-- Social Media Strategy
-- Video Production
-- Drone Video Producer
+- Website Redesign Overhaul
+- Social Media Strategy and Management
+- Drone Video Producing, Editing and Animations
 - Brand Strategy
 
 ### Graphic Designer | Pittsburgh, PA 

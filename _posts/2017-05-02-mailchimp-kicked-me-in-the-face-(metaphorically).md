@@ -53,15 +53,15 @@ MailChimp set the bar even higher using a fantastic content-focused campaign to 
 I needed a wake-up call, I got one, and I now feel inspired to create more imaginative content to entertain people and reach clients.
 Here are the links…enjoy!
 
-JailBlimp
-MailShrimp
-KaleLimp
-SnailPrimp
-WhaleSynth
-MaleCrimp
-FailChips
-VeilHymn
-NailChamp
+- JailBlimp
+- MailShrimp
+- KaleLimp
+- SnailPrimp
+- WhaleSynth
+- MaleCrimp
+- FailChips
+- VeilHymn
+- NailChamp
 
 ## So what do you think?
 

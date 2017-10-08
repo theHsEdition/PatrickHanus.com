@@ -34,16 +34,22 @@ permalink: /:title/
 links:
   - title: Home
     url: /
+    img: resume-profile-picture.jpg
   - title: Resume
     url: /resume
+    img: resume-profile-picture.jpg
   - title: Lists
     url: /lists
+    img: 
   - title: Blog
     url: /blog
+    img: 
   - title: Projects
     url: /projects
+    img: 
   - title: About
     url: /about
+    img: 
 
 # projects in header index
 projects:
@@ -51,6 +57,7 @@ projects:
     url: /skymouse
   - name: RESOURCE Commercial Real Estate
     url: /resource
+    img: project-willys-farm.jpg
   - name: Other People's Lives
     url: /resource
   - name: Man The Movie

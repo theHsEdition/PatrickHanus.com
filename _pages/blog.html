@@ -15,9 +15,12 @@ img:
  
 {% for post in site.posts %}
 	<section class="blog-card">
-	    <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
-	    <i>{{ post.date  | date: "%m/%d/%Y" }}</i>
-	    {{ post.excerpt }}
+		<img src="{{ site.url }}/library/img/{{ post.img }}" alt="{{ post.title }}">
+	   <div>
+		   	<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+		    <i>{{ post.date  | date: "%m/%d/%Y" }}</i>
+		    {{ post.excerpt }}
+	   </div>
 	</section>     
 {% endfor %}
   

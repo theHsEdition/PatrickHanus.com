@@ -14,4 +14,6 @@ seo-image:
 
 ---
 
-# Other People's Lives - A Podcast
+## Other People's Lives - A Podcast
+
+Coming soon to video and DVD.

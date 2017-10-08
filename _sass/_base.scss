@@ -63,7 +63,43 @@ section {
 	border-radius: 5px;
 	background: lighten(#f6f6f6, 1%);
 	margin: 20px 0px;
-	//box-shadow: 0px 20px 50px #d6d6d6;
+	overflow: hidden;
+}
+
+.img {
+	padding: 0;
+	height: 250px;
+	transition: 0.5s;
+
+	img {
+		margin-top: -10%;
+		transition: 0.5s;
+	}
+
+	&:hover { 
+		height: 600px;
+		transition: 0.5s;
+
+		img {
+			margin-top: 0px;
+			transition: 0.5s;
+		}
+	}
+}
+
+.blog-card {
+	padding: 0;
+
+	img {
+		z-index: 1;
+		width: 125%;
+		margin-top: -10px;
+	}
+
+	div {
+		z-index: 2;
+		padding: 20px;
+	}
 }
 
 .bio {

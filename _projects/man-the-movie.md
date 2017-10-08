@@ -14,6 +14,7 @@ hidden-message: Don't Give Up. Life Gets Better.
 ---
 
 ## About Man the Movie
+
 A Mediocre Short Film. This was for sure my first project where I realized how much I love working with people and being part of projects that are over a long period of time. The goal was to make an amazing student production that didn't look like a student production. We wanted to create something we could be proud of for our reels and portfolios. We had a budget of about 30 bucks and equipment from friends as well as our Communication Arts department.
 
 Coming up with the story was tricky; being original is much harder than we thought. We had numerous brainstorming sessions that didn't yield what we were looking for. After much yelling and confusion, the idea for Man was finally created and pre-production began. There was tons to do. A script had to be written, storyboards to be drawn, shooting schedules to be arranged. Luckily with the help of Zachary Wehner, Taylor Graff and many others we forced our way though.

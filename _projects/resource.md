@@ -8,7 +8,7 @@ hidden-message: Don't Give Up. Life Gets Better.
 
 seo-title: Behind the Scenes at RESOURCE
 excerpt: How I learned to build websites from scratch (mostly) in one year without spending a dime.
-seo-image:
+
 
 ---
 
@@ -34,28 +34,28 @@ What I thought was a good idea
 
 Am I going to use a Wordpress theme or build my own?
 
--Plugins allow you to control what post categories are and the properties you use for each one.
--Some themes include the plugins, while others don’t. A paid theme is very different than a free theme. You have a tone more options
--I almost think it’s more worth it to start with a theme and then build our own theme down the road, because that keeps us focused on the content, pictures, and video, and the design/layout of the website doesn’t become crazy overwhelming. Not to mention, by using a baller theme, we maximize time and efforts for visual appeal. It would take me forever to do all the theme work myself to the same degree that these other themes have.
+- Plugins allow you to control what post categories are and the properties you use for each one.
+- Some themes include the plugins, while others don’t. A paid theme is very different than a free theme. You have a tone more options
+- I almost think it’s more worth it to start with a theme and then build our own theme down the road, because that keeps us focused on the content, pictures, and video, and the design/layout of the website doesn’t become crazy overwhelming. Not to mention, by using a baller theme, we maximize time and efforts for visual appeal. It would take me forever to do all the theme work myself to the same degree that these other themes have.
 
-	1. Research. I had to find a solution. The site was built on Wordpress, which at the time I had no idea what it’s capabilities were or how to use it effectively. I called people I knew did websites, I chatted with the cool cats over at Digital Telepathy and did my best to find out what our options where. I quickly realized that for what the leadership wanted, we had a very tall order and no one was willing to blow a ton of money to fix a website they had just purchased.
+1. *Research.* I had to find a solution. The site was built on Wordpress, which at the time I had no idea what it’s capabilities were or how to use it effectively. I called people I knew did websites, I chatted with the cool cats over at Digital Telepathy and did my best to find out what our options where. I quickly realized that for what the leadership wanted, we had a very tall order and no one was willing to blow a ton of money to fix a website they had just purchased.
 
-	2. Just Do it. I figured we could create the website internally in a multi-phase process, that would allow us to slowly move forward the crucial parts (Figuring out who we were as a company and decrypting that for the lay person.) There was a lot to do, but if we split up the work, we could do it. I threw together a proposal for the executive committee. What we wanted to stress was that we were going to remain content-focused before all else, that way if we needed to hand the web aspects of the project off to someone else, we could and it wouldn’t be wasted time.
+2. *Just Do it.* I figured we could create the website internally in a multi-phase process, that would allow us to slowly move forward the crucial parts (Figuring out who we were as a company and decrypting that for the lay person.) There was a lot to do, but if we split up the work, we could do it. I threw together a proposal for the executive committee. What we wanted to stress was that we were going to remain content-focused before all else, that way if we needed to hand the web aspects of the project off to someone else, we could and it wouldn’t be wasted time.
 
-	3. More Research. I now had to find out what this company actually did, how they did it and why they did it. I sat down with as many brokers as I could as well as the leadership to figure out what made this company great and why people should pick us over some other bigger firm. This was a really cool part of the project because I got to learn how commercial real estate works and why these people got in to the biz. I was able to get some questions together that worked pretty well, and they evolved as I went. on thing that was very interesting was how different people answered questions in completely different ways. That meant I had to do a lot of rephrasing on the fly and make sure I could help them get out what I was looking for.
+3. *More Research.* I now had to find out what this company actually did, how they did it and why they did it. I sat down with as many brokers as I could as well as the leadership to figure out what made this company great and why people should pick us over some other bigger firm. This was a really cool part of the project because I got to learn how commercial real estate works and why these people got in to the biz. I was able to get some questions together that worked pretty well, and they evolved as I went. on thing that was very interesting was how different people answered questions in completely different ways. That meant I had to do a lot of rephrasing on the fly and make sure I could help them get out what I was looking for.
 
-	I made a list of competitor's websites and tried to really analyze what they were doing well and what they were lacking in.
+I made a list of competitor's websites and tried to really analyze what they were doing well and what they were lacking in.
 
-	- bradleyco.com
-	- CBRE.com
-	- ksmcpa.com
-	- colliers.com
+- bradleyco.com
+- CBRE.com
+- ksmcpa.com
+- colliers.com
 
-	4. Emergency Phase 1. I realized we needed a rushed redesign of the home page that would help us retain some viewers. The current page had a block of text that got a whopping zero on the Fleshing Reading Score and a faded picture of what looked like some windows. That was it. The redesign would include more pictures, icons, explanations of our services, links to social media and a contact form that would lead directly into salesforce via integration.
+4. Emergency Phase 1. I realized we needed a rushed redesign of the home page that would help us retain some viewers. The current page had a block of text that got a whopping zero on the Fleshing Reading Score and a faded picture of what looked like some windows. That was it. The redesign would include more pictures, icons, explanations of our services, links to social media and a contact form that would lead directly into salesforce via integration.
 
-	- We moved the site over to godaddy from being hosted by our IT company. Some users in the office were having trouble accesing the new site becuase they were ending up on cached versions of the site or some of them were on the old version of the site at the old location.
+- We moved the site over to godaddy from being hosted by our IT company. Some users in the office were having trouble accesing the new site becuase they were ending up on cached versions of the site or some of them were on the old version of the site at the old location.
 
-	- We moved our site over to SSL for google SEO purposes and that was pretty easy but we had to fix some links here and there. Godaddy makes it surprisingly easy to convert. I had to hop in and make sure any embennd links or linked script were being called over SSL as well.
+- We moved our site over to SSL for google SEO purposes and that was pretty easy but we had to fix some links here and there. Godaddy makes it surprisingly easy to convert. I had to hop in and make sure any embennd links or linked script were being called over SSL as well.
 
 ## How We (Actually) Did it
 The process we followed to reach our goals
@@ -112,7 +112,7 @@ The process we followed to reach our goals
 	When I realized that X theme wasn't very friendly when it came to creating custome post types where i could have peole who don't know website stuff, I moved away from X theme and decided to try something different.
 
 ### Launch
-We are live...I hope
+We are live...I hope.
 
 ## The Clean up
 The Site was launched, now to clean up the mess
@@ -133,11 +133,12 @@ I ended up find a cool integration using Zapier that automatically made a Github
 
 - Get the blog going on a regular basis
 
-### Problem Spotlight: The Wernke Team
+### Problem Spotlight
 
-I was having a huge problem getting Listings showing in a section ordered by date
--the time value from wpcf was stored in a timestamp format which made things much more difficult
--The Wernke team kept copying my boss on emails and making a big stink about things.
+I was having a huge problem getting Listings showing in a section ordered by date which was necessary for one of our teams at the office.
+
+- the time value from wpcf was stored in a timestamp format which made things much more difficult
+
 1. Query listings looking for “closed”
 2. if date is same year as the year stored in variable show listing
 3. if not and date is different year display the year heading and then begin showing listings
@@ -145,7 +146,7 @@ I was having a huge problem getting Listings showing in a section ordered by dat
 ## Review 
 
 ### Biggest Challenges
-The obstables throughout the process
+The obstables throughout the process,
 
 ### Biggest Lessions
 
@@ -159,22 +160,22 @@ The reason you have dry code is because it ensures you don’t go chasing your t
 
 ## Cool Sites and Apps that helped along the way
 
-gtmetrix.com
-tools.pingdom.com
-testmysite.withgoogle.com
-www.similarweb.com
+- gtmetrix.com
+- tools.pingdom.com
+- testmysite.withgoogle.com
+- www.similarweb.com
 
 ### Software
-Sublime Text 2 (code editing for php, html, sass)
-Mamp Pro 3 (hosting old resource site, hosting dev site)
-Forklift/Transmit 4
-Codekit
-Google Chrome
-Terminal
-GitHub/Git
-Adobe Photoshop
-InvisionApp
-Filezilla
+- Sublime Text 2 (code editing for php, html, sass)
+- Mamp Pro 3 (hosting old resource site, hosting dev site)
+- Forklift/Transmit 4
+- Codekit
+- Google Chrome (I like the dev tools on this better, but I would also test in Safari, Opera and Firefox)
+- Terminal
+- GitHub/Git
+- Adobe Photoshop
+- InvisionApp
+- Filezilla ( When I needed to FTP stuff, before i discovered scp—10000x faster)
 
 
 ---
