@@ -27,7 +27,29 @@ When I first came as Digital Marketing Coordinator, RESOURCE had just finished c
 - SEO, didn’t show up until the third page on Google
 
 ## The Desired Situation
-What I wanted, what the company wanted
+What I wanted, what the company wanted. The Chairman of the company was very forward thinking and was disappointed that we had such a poor web presence. I will be completely honest I came in hoping to focus more in the direction of video production and so I was caught off guard by the desire for a website.
+
+
+> “Current site is pieced together”
+
+- Content is weak
+- Aesthetics need to be pleasing
+- CRE Podcast
+- Use Mailchimp to capture leads - newsletters and info
+- Portal drives traffic
+- We need to be a thought leader
+- Attract Next//Gen Brokers
+- Videos
+- Mobile
+- Podcast
+- Capture Leads and drive opportunity
+- Offer free content and value
+- A resource youtube/vimeo channel
+- Video blog
+- Client testimonials
+- Virtual tours
+- Market reports
+- Rotating ticker-tape
 
 ## Proposed Strategy
 What I thought was a good idea
