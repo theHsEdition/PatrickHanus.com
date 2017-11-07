@@ -55,13 +55,16 @@ links:
 projects:
   - name: Skymouse Studios
     url: /skymouse
+    img: project-willys-farm.jpg
   - name: RESOURCE Commercial Real Estate
     url: /resource
     img: project-willys-farm.jpg
   - name: Other People's Lives
     url: /resource
+    img: project-willys-farm.jpg
   - name: Man The Movie
     url: /man-the-movie
+    img: project-willys-farm.jpg
 
 # Links to Social Media
 social: 

@@ -9,7 +9,6 @@ hidden-message: Don't Give Up. Life Gets Better.
 seo-title: Behind the Scenes at RESOURCE
 excerpt: How I learned to build websites from scratch (mostly) in one year without spending a dime.
 
-
 ---
 
 ## About RESOURCE
@@ -17,7 +16,7 @@ excerpt: How I learned to build websites from scratch (mostly) in one year witho
 RESOURCE Commercial Real Estate is a boutique real estate firm that provides comprehensive solutions for every real estate need. RESOURCE had just recently broken away from the Colliers International flagship and rebranded themselves in the process. I was brought on to articulate this new brand and vision through video production, website management, email marketing and social media. There had previously been no position of this kind and there was not much to start with as the identity of the company was still growing and people were unsure how they would do on their own.
 
 ## The Current Situation
-What we have on our hands now
+What we have on our hands now.
 
 When I first came as Digital Marketing Coordinator, RESOURCE had just finished creating a new website for the company with a local design company. The had spent a significant investment on the site, but unfortunately numerous people were very unhappy with it’s appearance, functionality and overall tone. Not only was the site unattractive and difficult to navigate, it was missing a lot of features that were important to to the leadership and brokers.
 

@@ -7,11 +7,14 @@ permalink: /skymouse.html
 
 hidden-message: It will probably be a while before I finish this.
 
-seo-title: Skymouse Studios | A Behind the Scenes Look at Branding a Brand
+seo-title: Skymouse Studios - A Behind the Scenes Look at Branding a Brand
 excerpt: How we built a company that helps people build a beautiful brand on the web.
 seo-image:
 
 ---
+
+	Much like Wikipedia, this page is in need of some cleaning up. 
+	Please excuse the mess. Thanks!
 
 ## Building a business is hard. 
 
@@ -138,7 +141,7 @@ How do you show your clients that you actually care? Is it being a smart allec i
 - Client follow up and survey after every client close-out.
 
 ## Pricing.
-Every young entrepenuers nightmare. How the heck do you figure out pricing. Me and John went back and forth a couple times between going hourly vs. going per project.
+Every young entrepenuers nightmare. How the heck do you figure out pricing? Me and John went back and forth a couple times between going hourly vs. going per project.
 
 The more I think about it the more I realize per project is better. We are selling a product. Not our time. I don't work by the hour, I work by what I can get done for you. I spend most of my time througout the day learning and documenting, I don't spend it dedicated to doing "stuff."
 
@@ -216,6 +219,31 @@ This is for midsized to large companies that are serious about their website and
 - Custom backend
 - Custom website theme
 
+## What is our Why?
+
+Me and John didn't want to be limited to websites. It was fun, but it wasn't the core of what our purpose. After listening to a podcast with Simon Senik, we realized what we were really missing was our *WHY*. What was our end goal here? Why did we even care? There are a million other things you can do besides making website? Why did we break into it? It took us a while to even figure that out. We sat down and talked about it, thought about it in the shower (not together) and kept asking ourselves WHAT IS OUR WHY? What is the end goal here? What is the dream? What difference are we trying to make in the world?
+
+Here's what we landed on:
+
+Marketing doesn't have to be sneaky. It doesn't have to manipulate. It doesn't have to not call you back or you shouldn't be waiting by the phone wishing your developer would just call you back.
+
+Why do we do what we do? Too many people are telling great stories poorly. Nobody tells a story better than a great brand. When people love your story, they've found something worth paying for.
+
+In a world so full of fake, we're about leading people to Truth. Do people know the Truth of your brand. No matter what we do, we want to share the Truth with others, because why lie when you can tell the truth? What's your story? Is it a good one? Then we want to tell it.
+
+*Stories we love:*
+Tom's - let's shoe the world.
+Digital Telepathy - Make every experinece beautiful
+Chick-fil - great food with amazing services
+Chipotle - healthy food that is fresh and clean
+
+## So Why do you make television?
+Our love for telling great stories can't be stopped. We wish we could, but we can't. It's our why. When you've found your Why it's like a desease. And we want everyone else to catch it.
+
+### Why did you make a streaming service?
+What better way to reach a bunch of people? We said to ourselves, what if we had a Netflix that only had awesome stories? No reason to sort around in the $5 bin at walmart. We've done the sorting for you already.
+
+This focus on the truth has kept us accountable too. That's why we are completely transparent with our rates, our products, what goes on in the company. We make mistkaes, we've made a bunch and we'll keep making them. But with each mistake we just hope that we can step a little bit closer to truth.
 
 ## The struggle is teal.
 - Roles and responsiblilties

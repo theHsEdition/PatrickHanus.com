@@ -4,10 +4,11 @@
 	box-sizing: border-box;
 }
 
-body {
+html, body {
 	font-family: 'Passion One', cursive;
 	font-family: 'Roboto Slab', sans-serif;
-	line-height: 26px;
+	font-size: 14px;
+	line-height: 28px;
 	color: $black;
 }
 
@@ -42,7 +43,7 @@ nav ul {
 }
 
 header {
-	width: 50%;
+	width: 60%;
 	margin: 0px auto;
 }
 
@@ -51,7 +52,7 @@ content {
 	margin: 0px auto;
 	position: relative;
 	padding-bottom: 40px;
-	width: 50%;
+	width: 60%;
 }
 
 section {
@@ -143,7 +144,6 @@ footer {
 
 	p {
 		display: block;
-		font-size: 10px;
 	}
 
 	a {
@@ -151,19 +151,13 @@ footer {
 	}
 
 	.fa {
-		color: red;
+		color: #8e0000;
 
 		&:hover {
 			color: $blue;
 		}
 	}
 	
-}
-
-aside {
-	position: fixed;
-	top: 10px;
-	right: 10px;
 }
 
 .left {
@@ -175,14 +169,17 @@ aside {
 }
 
 blockquote {
+	font-size: 1.5em;
+	text-align: center;
+	line-height: 2em;
 	float: left;
-	width: 100%;
+	width: 150%;
 	display: block;
-	padding: 10px;
+	padding: 40px;
 	border: 1px solid $gray;
 	border-radius: 5px;
 	background: #f6f6f6;
-	margin: 40px 0px;
+	margin: 40px 0px 40px -25%;
 	box-shadow: 0px 20px 50px #d6d6d6;
 }
 

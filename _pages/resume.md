@@ -75,19 +75,23 @@ Franciscan University of Steubenville; Steubenville, OH -Communication Arts Degr
 ## Programs and Applications
 (I want to show icons for each program here, with links to the website)
 
-- Photoshop 
-- Lightroom
-- Illustrator
-- After Effects
-- Premiere
-- Audition
-- Avid Media Composer
-- Asana
-- Evernote
-- Box, Dropbox, Google Drive
+<aside class="grid">
+	<div class="app">Lightroom</div>
+	<div class="app">Photoshop</div>
+	<div class="app">Illustrator</div>
+	<div class="app">After Effects</div>
+	<div class="app">Premiere</div>
+	<div class="app">Audition</div>
+	<div class="app">Asana</div>
+	<div class="app">Evernote</div>
+	<div class="app">Dropbox</div>
+	<div class="app">Google Drive</div>
+</aside>
+
 
 ## Sweet Skills
 (It would be cool to show my "level of expertise" in each field and to have some random ones that I suck at)
+
 - Leadership
 - Project Management
 - Troubleshooting
