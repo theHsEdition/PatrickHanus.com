@@ -7,16 +7,19 @@ permalink: /blog.html
 
 hidden-message: My site doesn't have cookies. Sorry.
 
-seo:
-excerpt:
+seo: 
+excerpt: Thoughts, Comments and Concerns — Writing about marketing, design, code and getting things done in a world of distraction and crap. Also known as the blog of Patrick Hanus.
 img:
 
 ---
  
 {% for post in site.posts %}
 	<section class="blog-card">
-		<img src="{{ site.url }}/library/img/{{ post.img }}" alt="{{ post.title }}">
-	   <div>
+		<div class="blog-img">
+			<img src="{{ site.url }}/library/img/{{ post.img }}" alt="{{ post.title }}">
+		</div>
+		
+	   <div class="blog-title">
 		   	<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
 		    <i>{{ post.date  | date: "%m/%d/%Y" }}</i>
 		    {{ post.excerpt }}

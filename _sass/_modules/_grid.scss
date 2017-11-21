@@ -1,6 +1,21 @@
+.intro-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
+	grid-auto-rows: minmax(100px, auto);
+
+	.one {
+		grid-column: 1;
+	}
+
+	.two {
+		grid-column: 2 / 4;
+	}
+}
+
 .grid {
 	display: grid;
-	grid-template-columns: repeat(6, 1fr);
+	grid-template-columns: repeat(auto-fit, minmax(100px, 100px));
 	grid-gap: 20px;
 	grid-auto-rows: minmax(100px, auto);
 }
@@ -10,7 +25,13 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: $lgray;
 	border-radius: 3px;
 	border: 1px solid $gray;
+	transition: 0.5s;
+
+	&:hover {
+		transition: 0.5s;
+		border: 1px solid $blue;
+		box-shadow: 0px 0px 0px 3px $blue;
+	}
 }

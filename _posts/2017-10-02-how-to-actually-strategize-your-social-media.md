@@ -3,7 +3,7 @@
 layout: page
 title: How to Actually Strategize Your Social Media
 categories: life
-img: /library/img/twitter.png
+img: twitter.png
 permalink: /posts/how-to-actually-strategize-your-social-media
 
 ---

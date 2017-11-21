@@ -3,7 +3,7 @@
 layout: page
 title: MailChimp Kicked Me in The Face (Metaphorically)
 categories: life
-img: /library/img/twitter.png
+img: blog-mailchimp-kicked-me.jpg
 permalink: /posts/mailchimp-kicked-me-in-the-face
 
 ---

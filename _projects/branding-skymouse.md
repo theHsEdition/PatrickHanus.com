@@ -1,9 +1,9 @@
 ---
 
 layout: page
-title: "Skymouse Studios"
+title: "Branding at Skymouse Studios"
 subtitle: Build a Brand People Love
-permalink: /skymouse.html
+permalink: /building-the-brand-of-skymouse.html
 
 hidden-message: It will probably be a while before I finish this.
 
@@ -197,7 +197,6 @@ This is for midsized to large companies that are serious about their website and
 - New profile pictures and descriptions for everyone
 - A cohesive brand with brand guidelines to help grow consistently into the future
 
-
 - User Experience (UX) testing and interating
 - Advanced integrations with 3rd party apps (Salesforce)
 - Easy to use on the back end
@@ -225,11 +224,16 @@ Me and John didn't want to be limited to websites. It was fun, but it wasn't the
 
 Here's what we landed on:
 
-Marketing doesn't have to be sneaky. It doesn't have to manipulate. It doesn't have to not call you back or you shouldn't be waiting by the phone wishing your developer would just call you back.
+Marketing doesn't have to be sneaky. It doesn't have to manipulate.You shouldn't be waiting by the phone wishing your developer would just call you back.
 
 Why do we do what we do? Too many people are telling great stories poorly. Nobody tells a story better than a great brand. When people love your story, they've found something worth paying for.
 
 In a world so full of fake, we're about leading people to Truth. Do people know the Truth of your brand. No matter what we do, we want to share the Truth with others, because why lie when you can tell the truth? What's your story? Is it a good one? Then we want to tell it.
+
+### The Human Experience.
+All this talk of user experience, client experience and a buch of people with no experience. What do we want to do? We want to add to and fufill the Human Experience. Let make some great HX. Every business, every company should try to improve the human experience and we want to help them do that.
+
+> We partner with humans to lead others towards a delightful human experience.
 
 *Stories we love:*
 Tom's - let's shoe the world.

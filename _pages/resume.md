@@ -7,6 +7,9 @@ permalink: /resume.html
 img: resume-profile-picture.jpg
 hidden-message: Patrick is SO Talented. - My Mom
 
+seo-title: 
+excerpt: 
+
 ---
 
 <section class="img">
@@ -23,8 +26,8 @@ I was born in NY, but I've lived in 6 different states and counting. I spend my 
 
 ## Teams I've Worked With:
 
-### Creative Director and Owner | Skymouse Studios, LLC
-Co-founded Skymouse Studios with John Welch to help build brands people love. Ranging from websites selling custom-made-hats-for-cats to videos about how your company got started in a garage on the side of the road, we want to help you tell your story. Even if you aren't looking for a new website, we'd love to chat!
+### Co-founder | Skymouse Studios, LLC
+Co-founded Skymouse Studios with John Welch to help build brands people love. Ranging from websites selling custom-made-hats-for-cats to videos about how your company got started in a garage on the side of the road, we want to help you tell your story.
 
 - Co-founded a design studio
 - Website design
@@ -54,8 +57,6 @@ Works various paid jobs ranging from engagement photos, to shooting video for a 
 Filmed events and presentations on campus for the University’s Marketing and Communications department.
 
 - Created lower-third animations for campus sports and events
-- Shot and Edited
-
 - Managing campus television studio and video lab. 
 - Troubleshooting Mac Pro and iMac issues, Wacom tablets, Sony PMW-350s, lighting kits.
 - Project sharing and management using an EditShare Server.
@@ -73,7 +74,6 @@ Franciscan University of Steubenville; Steubenville, OH -Communication Arts Degr
 - Student Creative Arts Network, Founder and President
 
 ## Programs and Applications
-(I want to show icons for each program here, with links to the website)
 
 <aside class="grid">
 	<div class="app">Lightroom</div>
@@ -90,7 +90,6 @@ Franciscan University of Steubenville; Steubenville, OH -Communication Arts Degr
 
 
 ## Sweet Skills
-(It would be cool to show my "level of expertise" in each field and to have some random ones that I suck at)
 
 - Leadership
 - Project Management

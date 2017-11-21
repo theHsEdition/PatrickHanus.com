@@ -7,7 +7,7 @@ permalink: /projects.html
 
 hidden-message: Don't Give Up. Life Gets Better.
 
-seo: A Collection of Patrick Hanus' Web and Design Projects
+seo-title: A Collection of Web and Design Projects by Patrick Hanus
 excerpt: Things I've done and what I've learned along the way
 img:
 
@@ -15,8 +15,11 @@ img:
 
 {% for project in site.projects %}
 	<section class="blog-card">
-		<img src="{{ site.url }}/library/img/{{ project.img }}" alt="{{ project.name }}">
-	    <div>
+		<div class="blog-img">
+			<img src="{{ site.url }}/library/img/{{ project.img }}" alt="{{ project.name }}">
+		</div>
+
+	    <div class="blog-title">
 		    <a title="Go to {{ project.name }}" href="{{ project.url }}">
 		    	<h2 itemprop="name">
 		    		{{ project.name }}

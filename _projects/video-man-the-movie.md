@@ -3,9 +3,9 @@
 layout: page
 title: "Man. - The Movie"
 subtitle: A confusing and somewhat entertaining short.
-permalink: /man-the-movie.html
+permalink: /making-man-the-movie.html
 
-seo-title: Man | A confusing and somewhat entertaining short.
+seo-title: Man - A confusing and somewhat entertaining short film.
 excerpt: The short film that gave me my first taste of storytelling and inspired me to take on Netflix.
 seo-img:
 

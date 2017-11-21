@@ -8,6 +8,14 @@ If you see anything that seems odd or run into a glitch, just let me know or sub
 
 ## Release Updates
 
+### v17.11.21
+Some of those updates I've been dying to do have finally happened.
+
+- Added homepage artwork
+- Added dark styles for “reading mode”
+- fixed default post layout
+- Added mailchimp picture
+
 ### v17.08.29
 
 It's been quite a while I am ashamed of myself. It's a good thing my life doesn't depend on this website.

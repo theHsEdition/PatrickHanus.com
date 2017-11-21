@@ -1,5 +1,7 @@
 /* General Mobile Stylesheet */
 
+
+
 * {
 	box-sizing: border-box;
 }
@@ -11,6 +13,54 @@ html, body {
 	line-height: 28px;
 	color: $black;
 }
+
+
+// ---------- Night Version ------------ //
+
+body.dark {
+	background: darken($black, 5%) !important;
+	color: $gray;
+
+	h1, h2, h3, h4, h5, h6 {
+		color: $gray;
+	}
+
+	h1 {
+		text-shadow: 4px 3px 0 #505050, 9px 8px 0 rgba(0,0,0,0.15);
+	}
+
+	.page-header h2 {
+		color: $black;
+	}
+	
+	em {
+		color: $black;
+	}
+	section {
+		background: lighten($black, 3%);
+		border-color: lighten($black, 10%);
+	}
+	
+	.nav-button {
+		background: lighten($black, 3%);
+	}
+
+	pre {
+		background: lighten($black, 3%);
+	}
+
+	#socialIcons {
+		background: lighten($black, 3%);
+	}
+
+	.artwork-left, .artwork-right {
+		opacity: 1.0;
+		filter: invert(.2);
+	}
+}
+
+// ------------------------------------- //
+
 
 nav ul {
 	margin: 20px 0;
@@ -55,8 +105,21 @@ content {
 	width: 60%;
 }
 
+.artwork-left {
+	position: absolute;
+	left: -10px;
+	width: 350px;
+	opacity: 0.3;
+}
+
+.artwork-right {
+	position: absolute;
+	right: -10px;
+	width: 350px;
+	opacity: 0.3;
+}
+
 section {
-	float: left;
 	width: 100%;
 	display: block;
 	padding: 20px;
@@ -66,6 +129,8 @@ section {
 	margin: 20px 0px;
 	overflow: hidden;
 }
+
+
 
 .img {
 	padding: 0;
@@ -90,14 +155,20 @@ section {
 
 .blog-card {
 	padding: 0;
+	margin: 60px 0px;
+	
+
+	.blog-img {
+		height: 300px;
+		overflow: hidden;
+	}
 
 	img {
 		z-index: 1;
-		width: 125%;
 		margin-top: -10px;
 	}
 
-	div {
+	.blog-title {
 		z-index: 2;
 		padding: 20px;
 	}
@@ -128,7 +199,7 @@ img	{
 #socialIcons {
 	margin-top: 60px;
 	text-align: center;
-	background: white;
+	background: $white;
 
 	.fa {
 		font-size: 1.5em;
