@@ -12,6 +12,7 @@ html, body {
 	font-size: 14px;
 	line-height: 28px;
 	color: $black;
+	transition: 0.5s;
 }
 
 
@@ -20,37 +21,46 @@ html, body {
 body.dark {
 	background: darken($black, 5%) !important;
 	color: $gray;
+	transition: 0.5s;
 
 	h1, h2, h3, h4, h5, h6 {
 		color: $gray;
+		transition: 0.5s;
 	}
 
 	h1 {
 		text-shadow: 4px 3px 0 #505050, 9px 8px 0 rgba(0,0,0,0.15);
+		transition: 0.5s;
 	}
 
 	.page-header h2 {
 		color: $black;
+		transition: 0.5s;
 	}
 	
 	em {
 		color: $black;
+		transition: 0.5s;
 	}
 	section {
 		background: lighten($black, 3%);
 		border-color: lighten($black, 10%);
+		transition: 0.5s;
 	}
 	
 	.nav-button {
 		background: lighten($black, 3%);
+		transition: 0.5s;
 	}
 
 	pre {
 		background: lighten($black, 3%);
+		transition: 0.5s;
 	}
 
 	#socialIcons {
 		background: lighten($black, 3%);
+		transition: 0.5s;
 	}
 
 	.artwork-left, .artwork-right {
@@ -129,8 +139,6 @@ section {
 	margin: 20px 0px;
 	overflow: hidden;
 }
-
-
 
 .img {
 	padding: 0;
