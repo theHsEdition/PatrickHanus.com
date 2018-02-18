@@ -1,8 +1,8 @@
 # Site settings
 title: Patrick Hanus - Developer & Designer
 description: "A blog about lorem ipsum ..."
-baseurl: ""
-url: "https://patrickhanus.com"
+baseurl: #"http://patrickhanus.com"
+url: "http://patrickhanus.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -36,34 +36,34 @@ links:
     url: /
     img: resume-profile-picture.jpg
   - title: Resume
-    url: /resume
+    url: /resume.html
     img: resume-profile-picture.jpg
   - title: Lists
-    url: /lists
+    url: /lists.html
     img: 
   - title: Blog
-    url: /blog
+    url: /blog.html
     img: 
   - title: Projects
-    url: /projects
+    url: /projects.html
     img: 
   - title: About
-    url: /about
+    url: /about.html
     img: 
 
 # projects in header index
 projects:
   - name: Skymouse Studios
-    url: /skymouse
+    url: /skymouse.html
     img: project-willys-farm.jpg
   - name: RESOURCE Commercial Real Estate
-    url: /resource
+    url: /resource.html
     img: project-willys-farm.jpg
   - name: Other People's Lives
-    url: /resource
+    url: /resource.html
     img: project-willys-farm.jpg
   - name: Man The Movie
-    url: /man-the-movie
+    url: /man-the-movie.html
     img: project-willys-farm.jpg
 
 # Links to Social Media

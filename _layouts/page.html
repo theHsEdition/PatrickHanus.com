@@ -9,12 +9,12 @@
         <ul>
           {% for link in site.links %}
             <li>
-              <a class="nav-button" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
 
-        <div id="DarkMode" onclick="darkMode()">Dark Mode</div>
+        <div id="darkMode">Dark Mode</div>
     </nav>
 
     <h1>{{ page.title }}</h1>

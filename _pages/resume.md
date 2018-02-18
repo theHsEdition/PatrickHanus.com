@@ -13,7 +13,7 @@ excerpt:
 ---
 
 <section class="img">
-	<img src="{{ site.url }}/library/img/{{ page.img }}" alt="">
+	<img src="{{ site.baseurl }}/library/img/{{ page.img }}" alt="">
 </section>
 
 ## 10-second Profile

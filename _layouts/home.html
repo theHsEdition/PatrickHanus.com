@@ -13,7 +13,7 @@
         <ul>
           {% for link in site.links %}
             <li>
-              <a class="nav-button" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
@@ -22,16 +22,16 @@
     </nav>
 </header>
 
-<img class="artwork-left" src="{{ site.url }}/library/img/artwork_left.svg" alt="">
+<img class="artwork-left" src="{{ site.baseurl }}/library/img/artwork_left.svg" alt="">
 
-<img class="artwork-right" src="{{ site.url }}/library/img/artwork_right.svg" alt="">
+<img class="artwork-right" src="{{ site.baseurl }}/library/img/artwork_right.svg" alt="">
 
 <content>
 
 
     <div class="intro-grid">
         <section class="one">
-            <img src="{{ site.url }}/library/img/patrick-hanus-illustration.png" alt="Patrick Hanus is Attractive">
+            <img src="{{ site.baseurl }}/library/img/patrick-hanus-illustration.png" alt="Patrick Hanus is Attractive">
         </section>            
 
         <section class="two">

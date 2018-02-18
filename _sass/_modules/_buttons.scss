@@ -1,4 +1,6 @@
 #darkMode {
 	@extend .nav-button;
 	cursor: pointer;
+	margin: 0;
+	text-align: center;
 }

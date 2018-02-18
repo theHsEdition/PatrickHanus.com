@@ -4,13 +4,14 @@ layout: page
 title: How to Actually Strategize Your Social Media
 categories: life
 img: twitter.png
-permalink: /posts/how-to-actually-strategize-your-social-media
+permalink: /posts/how-to-actually-strategize-your-social-media.html
 
 ---
 
 Content Advisory: Some bad language was used because I have a very limited vocabulary. Please think twice before reading aloud to your children as you drive in the car.
 
 ## TL;DR
+
 - Don’t post crap on social media
 - Most of what you post is probably crap
 - It doesn’t have to be this way
