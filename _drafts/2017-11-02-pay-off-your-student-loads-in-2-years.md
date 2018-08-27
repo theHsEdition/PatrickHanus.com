@@ -7,7 +7,7 @@ img: "/library/img/blog.png"
 permalink: "/posts/how-to-pay-off-your-student-loans.html"
 
 ---
-Despite the avialablity of education, Student loans are a severe problem, millenials are shooting their own lives in the foot.
+Despite the availability of education in the 21st Century, the infamous "student loan" plagues students across the globe (probably). Millennials are shooting their own lives in the foot, as they attempt to begin their careers with overwhelming amounts of debt.
 
 I love my parents and they are great people but when you are 1 of 5 children, they didn't have the means to put me through college. When I graduated college I had about $25k in student loans. I will be the first to admit this isn't really that bad, but that is also part of how I paid them off in 2 years.
 
@@ -51,15 +51,19 @@ For you kids still in college, here are some tips to saving money while still ha
 * **Don't get a car.** You'll save more money than you can imagine by not getting a car. I understand for some people this is not an option, but onece you get a car there are mechanical issues, rountine maintenance, insurance, gas and other things that inevitably show up with car ownership. It's a pain, but we are trading convience for money here.
 * **Reapply to scholarships**. Oftentimes you'll end up with one-time scholarships that are only good for a year. Apply to scholarships every year to make sure you're
 * **Negotiate with the admissions office.** If you are really close to being able to paying in full for a semester, you can reason with the admissions offic and they have the inside information on new scholarships, available funds.
+* **Major in something that will actually make you money.** I know we've hear it before but a philosophy degree is not going to put food in your mouth or Netflix on the TV. Pick a major that is going to make you happy while getting you a job that justifies the investment of an education.
 
 ### After Graduation: Make More, Spend Less - A Modern Peasant's Lifestyle
 
 I recently heard Pete the Planner speak and he talked about the dangers of what he refers to as "Lifestyle Creep." This is where you start to make more money and slowly scale your lifestyle to match. This is why people never get out of debt. This is why people feel like they are always drowning. To counter this, here's my approach. Every year the goal should be how to cut costs:
 
-Never eat out, never drink out. 
+Get a good job.  
+This might seem dumb, but it's often a mistake people make. Jobs can be hard to get, but they don't have to be. Spend some good time putting together a well-written resume, a cover letter that explains why you want to work at that particular company and really try to find a company where there is room to grow. It's amazing to me the number of people who just dump their resume into an indeed template and shoot it off to everyone in the world, regardless of how qualified they are.
+
+Never eat out, never drink out.
 This sounds depressing, but it's true. No matter how you shake it, eating out is a luxary and is one of the biggest ways people waste money. You have to remember that this is a temporary pain that will pass and once you pay off your loans you can eat, drink and be merry.
 
-Work a second job. 
+Work a second job.
 From what I hear alot of peole are doing this, but it's important to not just get any job. You want to find a job that allows you to get the best return for your time. If I had gotten a different job, I could make way more moeny, buy I decided to start a company with a friend of mine, helping businesses with their websites and their marketing. We brought in about $7k in our first year, it might not seem like much but it was good money and that was money that I could put towards my loans. I also see this as an investment, to make way more money in the future.
 
 Sweat the Small Stuff: Walk to work
@@ -90,24 +94,25 @@ I ate oatmeal for breakfast for 2 years. Now there was some variation here and t
 * Keep laying off the alcohol (it's not worth it)
 
 #### Bonus: Give 150% and Ask for a Raise
-This isn't always available to everyone, but it is important, becuase especially if you are a hard worker, chances are you are probably being underpaid. This isn’t always the case, so by all means don’t act like you are entitled to more money.
 
-The only way this works is if you truly make yourself an asset at work that no one can find anywhere else. This means working late, finding ways to save the company money and bringing real value to the table. Exceed expectations in every way. You can't just ask for a raise because you feel like it, you need to make it obvious you deserve one. I once heard that 1 Million Dollars was left on the table in your lifetime for never asking for a raise. Thats alot of money.
+This isn't always available to everyone, but it is important. Especially if you are a hard worker, chances are you are probably being underpaid.
 
-Approach your employer with a pitch for why you want a raise and your reasons for your target range. Most likely your'e being underpaid to start because unfortunately most employers will not always be looking out for your best interest.
+The only way this works is if you truly make yourself an asset at work that no one can find anywhere else. **This means working late, finding ways to save the company money and bringing real value to the table.** Exceed expectations in every way. You can't just ask for a raise because you feel like it—you need to make it obvious you deserve one. I once heard that 1 Million Dollars was left on the table in your lifetime for never asking for a raise. That is a lot of money.
+
+Approach your employer with a pitch for why you want a raise and your reasons for your target range. Put together a roadmap to show how you have helped grow the company and save the business money. Take some time to research negotiation skills, there's a book I can't recommend more called "Never Split the Difference." Too many of us won't stick up for ourselves and so we spend most of our lives being taken advantage of.
 
 ## In review: Mindset Shift => I Deserve Nothing
 
-You need to realize that when you are in debt you own nothing. The money you're making is someone else's money. This attitude of rewarding ourselves with money that doesn't belong to us is fundamentally flawed. We keep lying to ourselves.
+You need to realize that when you are in debt you own nothing. The money you're making is someone else's money. Once we learn to think like this it's much easier to start living the meager lifestyle necessary to pay back loans like this at such a rapid rate.
 
-There are other ways to reward yourself:
+The prevalent attitude of rewarding ourselves with money that doesn't belong to us is fundamentally flawed. We keep lying to ourselves. I think this is one of the critical issues in the minds of millennials. We need to grow up and be responsible for our own lives and our own educations.
 
-* spending time with friends.
-* go somewhere new
-* watch a tv show
-* throw a huge part when you pay your last loan
+There is nothing more freeing than paying off your last student loan. It has been almost a lifelong goal of mine now I can say that I paid my way through college and I'm debt free at 23.
 
-You are trading convenience for money, so live is going to be a bit inconvenient. 
+I encourage you to throw a party when you pay your last loan. Let loose a little spend some money to enjoy yourself. You deserve it. Me, I bought a handle of bourbon, a flank steak and enjoyed both by a crackling fire...or maybe that was Ron Swanson.
+
+You are trading convenience for money, so life is going to be a bit inconvenient until then, but it's worth it!
 
 ### Good luck out there :)
-How did you go about paying your student loans? Any tips you wouldn't mind sharing with the group?
+
+How did you go about paying off your student loans? Any tips you want to share?
