@@ -63,6 +63,8 @@ This might seem dumb, but it's often a mistake people make. Jobs can be hard to 
 Never eat out, never drink out.
 This sounds depressing, but it's true. No matter how you shake it, eating out is a luxary and is one of the biggest ways people waste money. You have to remember that this is a temporary pain that will pass and once you pay off your loans you can eat, drink and be merry.
 
+Apart from giving yourself a slight “reward allowance” You need to bake it into your head that eating out is ALWAYS a waste of money. It’s never worth it. The only time I let myself eat out is when It’s with a bunch of people and it’s about the time I’m going to spend with them. But even this is rare. It’s okay to go out with friends and just order a water. Unconventional, yes, but I have done it countless times and I have still enjoyed myself. Food and alcohol are expensive and it doesn’t make sense to go out to eat when you own someone $30k. Even with a low interest rate.
+
 Work a second job.
 From what I hear alot of peole are doing this, but it's important to not just get any job. You want to find a job that allows you to get the best return for your time. If I had gotten a different job, I could make way more moeny, buy I decided to start a company with a friend of mine, helping businesses with their websites and their marketing. We brought in about $7k in our first year, it might not seem like much but it was good money and that was money that I could put towards my loans. I also see this as an investment, to make way more money in the future.
 
@@ -106,6 +108,13 @@ Approach your employer with a pitch for why you want a raise and your reasons fo
 You need to realize that when you are in debt you own nothing. The money you're making is someone else's money. Once we learn to think like this it's much easier to start living the meager lifestyle necessary to pay back loans like this at such a rapid rate.
 
 The prevalent attitude of rewarding ourselves with money that doesn't belong to us is fundamentally flawed. We keep lying to ourselves. I think this is one of the critical issues in the minds of millennials. We need to grow up and be responsible for our own lives and our own educations.
+
+Focus on People  
+Going out the movies is a lousy way to spend time with someone. Try going for a walk. Go hiking at the state park.
+
+**Don't Despair!**
+
+**Focus on people**
 
 There is nothing more freeing than paying off your last student loan. It has been almost a lifelong goal of mine now I can say that I paid my way through college and I'm debt free at 23.
 
