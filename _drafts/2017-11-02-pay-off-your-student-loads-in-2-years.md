@@ -7,15 +7,21 @@ img: "/library/img/blog.png"
 permalink: "/posts/how-to-pay-off-your-student-loans.html"
 
 ---
-Student loans are a severe problem, my generation and the next are chained to their loans. The fact is, you don’t have to worry. You can beat this.
+Despite the avialablity of education, Student loans are a severe problem, millenials are shooting their own lives in the foot.
 
-I love my parents and they are great people but they didn't have the means to put me through college. So when I graduated school I had about $25k in student loans. I will be the first to admit this isn't really that bad, but that is also part of how I paid them off in 2 years.
+I love my parents and they are great people but when you are 1 of 5 children, they didn't have the means to put me through college. When I graduated college I had about $25k in student loans. I will be the first to admit this isn't really that bad, but that is also part of how I paid them off in 2 years.
 
 Think of the following as a 4 year program that is part of college eduction. For those of you who are graduated, it's a 2 year program.
 
 ## I hate loans more than anything else in the world.
 
 I hate owing people money. I like paying for things myself. I don't like losing money to interest. It's another reason I hate renting, but that's a different story for a different time. I decided when I was young to put together a plan to pay off my student loans. It wasn't so much as a plan as it was a _lifestyle_.
+
+There really are three stages to how I saved enough and made enough to pay off my loans.
+
+* [Before college (About 4 years)](/#Before-College "Before College")
+* [During college (3 and 1/2 years)](/#during-college "During College")
+* [After college ( 2 years - the powerhouse years)](/#after-college "After College")
 
 ### Before College
 
@@ -38,7 +44,7 @@ For you kids still in college, here are some tips to saving money while still ha
 
 * **Pay as you go**. Remember, you don't have to pay college all at once. Part of the reason I only had $25k in loans was becuase I managed to pay off the rest out of pocket as I went. there were some times I barely scraped by, but my main goal was to avoid getting any additional loans outside of my government loans.
 * **Worked various jobs at school, from day one.** I found a job in the video lab that would let me work up to 20 hours a week on campus, no communiting
-* **Save money.** Work, birthdays, Christmas, no matter the income source, I never viewed the money as _mine_. It's not mine. It belongs to Fannie Mae and they are letting me buy it.
+* **Save money.** This might seem obvious, but it's still worth saying. Work, birthdays, Christmas, no matter the income source, you can't view the money as _yours_. It's not yours. It belongs to Fannie Mae and they are letting you borrow it—for a fee!
 * **Spend time with people, but don’t feel obligated to spend money.**
   There were many, many times I was the lame one who ordered the water and ate the free bread. I learned to accept it and take the labels with pride. I was saving money to pay for college and if that means being a cheapskate, I don't mind. I believe this is where you can save the most. People love eating out and they love dragging people out with them, I'd be happy to spend time with people, but I'm not spending $8 on a sanwich I can make for $2 at home.
 * **Reel in the drinking habit.** Drinking is very expensive. It's really not worth it. From a purily objective point of view its a complete luxary and if it's a necessity to you than your problems may go deeper than student loans...
@@ -46,15 +52,18 @@ For you kids still in college, here are some tips to saving money while still ha
 * **Reapply to scholarships**. Oftentimes you'll end up with one-time scholarships that are only good for a year. Apply to scholarships every year to make sure you're
 * **Negotiate with the admissions office.** If you are really close to being able to paying in full for a semester, you can reason with the admissions offic and they have the inside information on new scholarships, available funds.
 
-### After Graduation:
-
-- Never eat out, never drink out. This sounds depressing, but it's true. No matter how you shake it, eating out is a luxary and is one of the biggest ways people waste money. You have to remember that this is a temporary pain that will pass and once you pay off your loans you can eat, drink and be merry.
-
-- Work a second job. From what I hear alot of peole are doing this, but it's important to not just get any job. You want to find a job that allows you to get the best return for your time. If I had gotten a different job, I could make way more moeny, buy I decided to start a company with a friend of mine, helping businesses with their websites and their marketing. We brought in about $7k in our first year, it might not seem like much but it was good money and that was money that I could put towards my loans. I also see this as an investment, to make way more money in the future.
-
-### Make More, Spend Less - A Modern Peasant's Lifestyle
+### After Graduation: Make More, Spend Less - A Modern Peasant's Lifestyle
 
 I recently heard Pete the Planner speak and he talked about the dangers of what he refers to as "Lifestyle Creep." This is where you start to make more money and slowly scale your lifestyle to match. This is why people never get out of debt. This is why people feel like they are always drowning. To counter this, here's my approach. Every year the goal should be how to cut costs:
+
+Never eat out, never drink out. 
+This sounds depressing, but it's true. No matter how you shake it, eating out is a luxary and is one of the biggest ways people waste money. You have to remember that this is a temporary pain that will pass and once you pay off your loans you can eat, drink and be merry.
+
+Work a second job. 
+From what I hear alot of peole are doing this, but it's important to not just get any job. You want to find a job that allows you to get the best return for your time. If I had gotten a different job, I could make way more moeny, buy I decided to start a company with a friend of mine, helping businesses with their websites and their marketing. We brought in about $7k in our first year, it might not seem like much but it was good money and that was money that I could put towards my loans. I also see this as an investment, to make way more money in the future.
+
+Sweat the Small Stuff: Walk to work
+It’s not about winning the lottery or finding 100 dollar bills on the street, it’s really a constant flow of small sacrifices that result in a big difference over a long period of time.
 
 _Cheaper Rent_
 I found cheaper rent for my second year in a crappier apartment, but it knocked $130 off my bill each month.
@@ -80,28 +89,25 @@ I ate oatmeal for breakfast for 2 years. Now there was some variation here and t
 * Skip things that are't on sale (this means eating based on availablity)
 * Keep laying off the alcohol (it's not worth it)
 
-#### Give 150% and Ask for a Raise
-
-Especially if you are a hard worker, chances are you are probably being underpaid. This isn’t always the case, so by all means don’t act like you are entitled to more money.
+#### Bonus: Give 150% and Ask for a Raise
+This isn't always available to everyone, but it is important, becuase especially if you are a hard worker, chances are you are probably being underpaid. This isn’t always the case, so by all means don’t act like you are entitled to more money.
 
 The only way this works is if you truly make yourself an asset at work that no one can find anywhere else. This means working late, finding ways to save the company money and bringing real value to the table. Exceed expectations in every way. You can't just ask for a raise because you feel like it, you need to make it obvious you deserve one. I once heard that 1 Million Dollars was left on the table in your lifetime for never asking for a raise. Thats alot of money.
 
 Approach your employer with a pitch for why you want a raise and your reasons for your target range. Most likely your'e being underpaid to start because unfortunately most employers will not always be looking out for your best interest.
 
-## Mindset Shift: I Deserve Nothing
+## In review: Mindset Shift => I Deserve Nothing
 
-You need to realize that when you are in debt you own nothing. The money you're making is someone else's money. This attitude of rewarding ourselves with money that doesn't belong to us is fundamentally flawed. We keep lying to ourselves
+You need to realize that when you are in debt you own nothing. The money you're making is someone else's money. This attitude of rewarding ourselves with money that doesn't belong to us is fundamentally flawed. We keep lying to ourselves.
 
 There are other ways to reward yourself:
 
 * spending time with friends.
 * go somewhere new
 * watch a tv show
+* throw a huge part when you pay your last loan
 
-# Sweat the Small Stuff: Walk to work
+You are trading convenience for money, so live is going to be a bit inconvenient. 
 
-It’s not about winning the lottery or finding 100 dollar bills on the street, it’s really a constant flow of small sacrifices that result in a big difference over a long period of time.
-
-### You are trading convenience for money, so live is going to be a bit inconvenient. That's how I did it, and you can to.
-
-Good luck out there.
+### Good luck out there :)
+How did you go about paying your student loans? Any tips you wouldn't mind sharing with the group?
