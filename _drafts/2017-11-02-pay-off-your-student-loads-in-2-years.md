@@ -17,7 +17,7 @@ Think of the following as a 4 year program that is part of college eduction. For
 
 I hate owing people money. I like paying for things myself. I don't like losing money to interest. It's another reason I hate renting, but that's a different story for a different time. I decided when I was young to put together a plan to pay off my student loans. It wasn't so much as a plan as it was a _lifestyle_.
 
-There really are three stages to how I saved enough and made enough to pay off my loans.
+There are three stages to how I saved enough and made enough to pay off my loans.
 
 * [Before college (About 4 years)](/#Before-College "Before College")
 * [During college (3 and 1/2 years)](/#during-college "During College")
@@ -40,10 +40,10 @@ If you're saving money for college, than here's your best bet.
 
 ### During College
 
-For you kids still in college, here are some tips to saving money while still having a good time. There were many times I didn't do things because it cost money, but there were even more times where I still had an awesome time and found a way to do things that didn't cost money.
+For you young kiddos still in college, here are some tips to saving money while still having a good time. There were many times I didn't do things because it cost money, but there were even more times where I still had an awesome time and found a way to do things that didn't cost money.
 
 * **Pay as you go**. Remember, you don't have to pay college all at once. Part of the reason I only had $25k in loans was becuase I managed to pay off the rest out of pocket as I went. there were some times I barely scraped by, but my main goal was to avoid getting any additional loans outside of my government loans.
-* **Worked various jobs at school, from day one.** I found a job in the video lab that would let me work up to 20 hours a week on campus, no communiting
+* **Worked various jobs at school, from day one.** I found a job in the video lab that would let me work up to 20 hours a week on campus, no commuting necessary. Because campus had a limit on I also found a job that was shooting video
 * **Save money.** This might seem obvious, but it's still worth saying. Work, birthdays, Christmas, no matter the income source, you can't view the money as _yours_. It's not yours. It belongs to Fannie Mae and they are letting you borrow it—for a fee!
 * **Spend time with people, but don’t feel obligated to spend money.**
   There were many, many times I was the lame one who ordered the water and ate the free bread. I learned to accept it and take the labels with pride. I was saving money to pay for college and if that means being a cheapskate, I don't mind. I believe this is where you can save the most. People love eating out and they love dragging people out with them, I'd be happy to spend time with people, but I'm not spending $8 on a sanwich I can make for $2 at home.
