@@ -3,8 +3,9 @@ layout: page
 title: How to Pay Off Your Student Loans in 2 Years without Selling Drugs
 subtitles: Yes, it does involve maybe some free bread here and there.
 categories: life
-img: "/library/img/blog.png"
+img: "/library/img/breakingbad_skylerwaltmoney.jpg"
 permalink: "/posts/how-to-pay-off-your-student-loans.html"
+
 ---
 I grew up in a relatively happy home. I was the oldest of 5 children and so I ruled the world. I had a captive audience at all times. I enjoyed my power. 
 
