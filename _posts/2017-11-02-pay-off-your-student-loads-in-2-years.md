@@ -3,7 +3,7 @@ layout: page
 title: How to Pay Off Your Student Loans in 2 Years without Selling Drugs
 subtitles: Yes, it does involve maybe some free bread here and there.
 categories: life
-img: "/library/img/breakingbad_skylerwaltmoney.jpg"
+img: "breakingbad_skylerwaltmoney.jpg"
 permalink: "/posts/how-to-pay-off-your-student-loans.html"
 
 ---
@@ -37,9 +37,9 @@ Just a little background, I hate owing people money. I like paying for things my
 
 There are three stages to how I saved enough and made enough to pay off my loans. If one doesn't seem to be relevant, please feel free to skip it.
 
-* [Before college (About 4 years)](/#Before-College "Before College")
-* [During college (3 and 1/2 years)](/#during-college "During College")
-* [After college ( 2 years - the powerhouse years)](/#after-college "After College")
+* [Before college (About 4 years)](#Before-College "Before College")
+* [During college (3 and 1/2 years)](#during-college "During College")
+* [After college ( 2 years - the powerhouse years)](#after-college "After College")
 
 ### Before College
 Don't worry about having to make tons of money, just focus on saving money and learning to start working hard.

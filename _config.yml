@@ -1,7 +1,7 @@
 # Site settings
 title: Patrick Hanus - Developer & Designer
 description: "A blog about lorem ipsum ..."
-baseurl: #"http://patrickhanus.com"
+baseurl: "https://patrickhanus.com"
 url: "http://patrickhanus.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
