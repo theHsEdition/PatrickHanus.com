@@ -8,7 +8,7 @@ logo: "/assets/logo.png"
 
 # User settings
 username: Patrick Hanus
-user_title: Patrick Hanus | Designer & Developer
+user_title: Designer & Developer
 email: patrick@skymse.com
 twitter_username: "@thehsedition"
 github_username:  "@thehsedition"
@@ -27,7 +27,7 @@ compress_html:
 #    style: compressed
 
 exclude: [README.md, CHANGELOG.md]
-include: ["_pages", "_projects"]
+include: ["_pages"]
 permalink: /:title/
 
 # Links to include in menu navigation
@@ -44,27 +44,24 @@ links:
   - title: Blog
     url: /blog.html
     img: 
-  - title: Projects
-    url: /projects.html
-    img: 
   - title: About
     url: /about.html
     img: 
 
 # projects in header index
-projects:
-  - name: Skymouse Studios
-    url: /skymouse.html
-    img: project-willys-farm.jpg
-  - name: RESOURCE Commercial Real Estate
-    url: /resource.html
-    img: project-willys-farm.jpg
-  - name: Other People's Lives
-    url: /resource.html
-    img: project-willys-farm.jpg
-  - name: Man The Movie
-    url: /man-the-movie.html
-    img: project-willys-farm.jpg
+# projects:
+#   - name: Skymouse Studios
+#     url: /skymouse.html
+#     img: project-willys-farm.jpg
+#   - name: RESOURCE Commercial Real Estate
+#     url: /resource.html
+#     img: project-willys-farm.jpg
+#   - name: Other People's Lives
+#     url: /resource.html
+#     img: project-willys-farm.jpg
+#   - name: Man The Movie
+#     url: /man-the-movie.html
+#     img: project-willys-farm.jpg
 
 # Links to Social Media
 social: 
@@ -84,11 +81,3 @@ social:
     url: http://bit.ly/ph-github
   - name: Twitter
     url: http://bit.ly/ph-twitter
-
-# Descriptions for Blog Categories
-descriptions:
-  - cat: Life
-    desc: "Things that make life better."
-
-  - cat: Code
-    desc: "Developing a better me"
