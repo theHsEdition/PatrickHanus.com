@@ -3,8 +3,8 @@ layout: page
 title: A 2019 Lenten Resolution: Create more, consume less.
 subtitles: I'm tired of being passive and here's what I'm going to do about it.
 categories: life
-img: "breakingbad_skylerwaltmoney.jpg"
-permalink: "/posts/a-first-quarter-resolution.html"
+img: "create-more-consume-less.jpg"
+permalink: "/posts/a-lenten-resolution-create-more-consume-less.html"
 
 ---
 
