@@ -1,13 +1,12 @@
 ---
 layout: page
-title: A 2019 Lenten Resolution: Create more, consume less.
+title: "A 2019 Lenten Resolution: Create more, consume less."
 subtitles: I'm tired of being passive and here's what I'm going to do about it.
 categories: life
 img: "create-more-consume-less.jpg"
 permalink: "/posts/a-lenten-resolution-create-more-consume-less.html"
 
 ---
-
 I want to write more. I want to do a lot of things "more."
 
 Today is a beautiful sunny day. In the spirit of Lent, I'm slouching at my desk contemplating my mortality. The sun shining through my window makes me happy, but there is something that's bothering me: I consume too much.
@@ -16,11 +15,11 @@ I don't mean that I'm fat. I'm not. In fact, one might say I look malnourished.
 
 I mean that I am consuming more media than I should. 
 
->I decided on my motto for the rest of the year: Create more, consume less. 
+## I decided on my motto for the rest of the year: Create more, consume less. 
 
 I still plan on reading and learning. What I want to cut out is the passive consumption of content that does not add to my life or make me a better person. I no longer want to consume the cotten candy content that is churned out by the internet. Today is a new day.
 
-I want to create things that make the world better.
+## I want to create things that make the world better.
 
 One of those new projects is a Youtube Channel called OvertTV. It's not the most original name in the world, but the purpose is noble. We want to create a place where people can learn about the Truth. There is an order to the universe and for those of us who see it, we owe it to our fellow man to shine a light on it.
 
