@@ -4,7 +4,7 @@ layout: page
 title: MailChimp Kicked Me in The Face (Metaphorically)
 categories: life
 img: blog-mailchimp-kicked-me.jpg
-permalink: /posts/mailchimp-kicked-me-in-the-face
+permalink: /posts/mailchimp-kicked-me-in-the-face.html
 
 ---
 
