@@ -1,7 +1,7 @@
 # Site settings
 title: Patrick Hanus - Developer & Designer
 description: "The Patrick Hanus Website"
-baseurl: "https://patrickhanus.com"
+baseurl: #"https://patrickhanus.com"
 url: "https://patrickhanus.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"

@@ -7,8 +7,8 @@ permalink: /lists.html
 
 hidden-message: Don't Give Up. Life Gets Better.
 
-seo-title: T
-excerpt: A list of apps, entertainment and things that might make life more interesting for you. Feel free to share with your friends, family, and enemies.
+seo-title: A List of Helpful Things from Patrick Hanus
+seo-description: A list of apps, entertainment and things that might make life more interesting for you. Feel free to share with your friends, family, and enemies.
 img:
 
 ---
@@ -16,7 +16,7 @@ img:
 ## Apps I'm Using
 
 - *Pocket* for reading articles about 5 things successful people never do
-- *Evernote* for mind database
+- NEW! *Notion* for mind database
 - *Asana* for project management and task management
 - *Gmail* for emailing back and forth with my grandma
 - *DayOne* for journaling about my secret crush
@@ -30,12 +30,9 @@ img:
 - *Jumpcut* for remembering all my copy/pasting
 - *Disk Inventory X* for finding large files on my computer
 
----
-
 ## Movies I think you might like
 
 - Donnie Darko
-- King Arther
 - Dunkirk
 - Arrival
 - Inception
@@ -43,8 +40,6 @@ img:
 - Shutter Island
 - Pulp Fiction
 - Momento
-
----
 
 ## Bands That Make Me Dance
 
@@ -57,12 +52,12 @@ img:
 - Queen
 - Weezer
 
----
 
 ## Books That Could Change Your Life
 
 - The Art of Strategy
 - The Secret of Staying In Love
+- Thinking, Fast and Slow
 - How to Win Friends and Influence People
 - What Do You Really Want?
 - Don't Make Me Think
